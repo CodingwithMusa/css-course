@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: lighter;
+}
+
+h2 {
+  text-align: start;
+  font-size: 35px;
+  font-weight: 900;
+}
+
+#initial-price {
+  font-size: 30px;
+}
+
+#discounted-price {
+  font-size: 30px;
+}

@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: red;
+}
+
+#main-div {
+  background-color: brown;
+  height: 500px;
+  width: 500px;
+}
+
+#small-div {
+  background-color: blue;
+  height: 75%;
+  width: 75%;
+}

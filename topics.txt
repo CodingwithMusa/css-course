@@ -1,0 +1,36 @@
+CSS Topics to Cover
+
+1. Introduction to CSS
+- What is CSS?
+- Creating a CSS file
+- Linking CSS to HTML
+- CSS Boilerplate Code
+
+2. Colors and Units
+- Setting Text & Background Colors
+- Using HEX and RGB Colors
+- Understanding Width, Height & Units
+
+3. Typography in CSS
+- Choosing Font Families
+- Setting Font Size & Weight
+- Aligning and Styling Text
+
+4. The Box Model
+- Padding, Border & Margin
+- Using DevTools to Visualize Spacing
+
+5. Layout and Display
+- Display: Block vs Inline
+- Simple Positioning (Static & Relative)
+- Hiding Content & Handling Overflow
+
+6. Flexbox Layout
+- What is Flexbox?
+- Direction: Row vs Column
+- Aligning Items Easily
+
+7. Responsive Design and Media Queries
+- Why Responsive Design Matters
+- Writing Basic Media Queries
+- Making Layouts Work on All Devices
