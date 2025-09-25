@@ -17,7 +17,7 @@ CSS Topics to Cover
 - Aligning and Styling Text
 
 4. The Box Model
-- Padding, Border & Margin
+- Margin, Border & Padding
 - Using DevTools to Visualize Spacing
 
 5. Layout and Display
