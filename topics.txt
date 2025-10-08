@@ -25,12 +25,17 @@ CSS Topics to Cover
 - Simple Positioning (Static & Relative)
 - Hiding Content & Handling Overflow
 
-6. Flexbox Layout
+6. Positioning
+- Static, Relative, Absolute, Fixed & Sticky
+- Positioning Elements within Containers
+- Practical Use Cases
+
+7. Flexbox Layout
 - What is Flexbox?
 - Direction: Row vs Column
 - Aligning Items Easily
 
-7. Responsive Design and Media Queries
+8. Responsive Design and Media Queries
 - Why Responsive Design Matters
 - Writing Basic Media Queries
 - Making Layouts Work on All Devices
