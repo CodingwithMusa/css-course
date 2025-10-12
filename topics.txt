@@ -21,9 +21,9 @@ CSS Topics to Cover
 - Using DevTools to Visualize Spacing
 
 5. Layout and Display
-- Display: Block vs Inline
-- Simple Positioning (Static & Relative)
-- Hiding Content & Handling Overflow
+- Display: Block, Inline & Inline-Block
+- Hiding Content with display: none, visibility, and opacity
+- Handling Overflow
 
 6. Positioning
 - Static, Relative, Absolute, Fixed & Sticky
