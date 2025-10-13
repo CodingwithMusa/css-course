@@ -23,7 +23,6 @@ CSS Topics to Cover
 5. Layout and Display
 - Display: Block, Inline & Inline-Block
 - Hiding Content with display: none, visibility, and opacity
-- Handling Overflow
 
 6. Flexbox Layout
 - What is Flexbox?
