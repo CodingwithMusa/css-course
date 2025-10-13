@@ -30,12 +30,22 @@ CSS Topics to Cover
 - Direction: Row vs Column
 - Aligning Items Easily
 
-7. Positioning
+7. Mini Project
+- Navigation Bar
+- Hero Section
+- Practice Questions
+
+8. Handling Overflow
+- What is Overflow?
+- Using overflow, overflow-x, and overflow-y
+- Scrollbars and Clipping Content
+
+9. Positioning
 - Static, Relative, Absolute, Fixed & Sticky
 - Positioning Elements within Containers
 - Practical Use Cases
 
-8. Responsive Design and Media Queries
+10. Responsive Design and Media Queries
 - Why Responsive Design Matters
 - Writing Basic Media Queries
 - Making Layouts Work on All Devices
