@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  background-color: aqua;
+  display: inline-block;
+  width: 200px;
+}
+
+span {
+  background-color: rgb(255, 145, 145);
+}
+
+.box1 {
+  margin-top: 100px;
+  background-color: rgb(148, 148, 255);
+  width: 200px;
+  height: 100px;
+  opacity: 0.5;
+}
+
+.box2 {
+  margin-top: 30px;
+  background-color: rgb(240, 255, 104);
+  width: 200px;
+  height: 100px;
+}
